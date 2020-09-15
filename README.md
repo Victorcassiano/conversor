@@ -1,4 +1,4 @@
-![]](https://img.shields.io/github/release/pandao/editor.md.svg)
+![]](https://img.shields.io/badge/license-BSD-blue)
 
 ### Como usar:
 ```dart
