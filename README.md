@@ -1,4 +1,4 @@
-![]](https://img.shields.io/badge/license-BSD-blue)
+[![Pub Package](https://img.shields.io/pub/v/password.svg)](https://pub.dartlang.org/packages/password)
 
 ### Como usar:
 ```dart
