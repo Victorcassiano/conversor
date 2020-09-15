@@ -40,7 +40,7 @@ class ConversorBases {
         .replaceAll('15', 'F');
   }
   
-  static String toOctadecimal(int value) {
+  static String toOcta(int value) {
     var lista = [];
     int i = 0;
 

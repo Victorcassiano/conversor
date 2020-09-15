@@ -1,7 +1,7 @@
 name: conversor
 description: Um simples conversor de bases.
 version: 0.1.0
-author: Victor Cassiano <mr.siergt@gmail.com>
+author: Victor Cassiano
 homepage: https://github.com/Victorcassiano/conversor
 
 environment:
