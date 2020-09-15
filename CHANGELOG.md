@@ -1,3 +1,3 @@
-## Versão 0.1.2
+## Versão 0.1.3
 
 - Versão inicial, Estável.

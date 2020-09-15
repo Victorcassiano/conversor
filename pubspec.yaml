@@ -1,6 +1,6 @@
 name: conversor
-description: Um simples conversor de bases.
-version: 0.1.2
+description: Um simples conversor de bases. Apenas do decimal para base 2, 8 e 16.
+version: 0.1.3
 author: Victor Cassiano
 homepage: https://github.com/Victorcassiano/conversor
 
